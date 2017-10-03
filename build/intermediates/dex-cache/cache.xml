@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\exploded-aar\com.weiwangcn.betterspinner\library-material\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8d8c5463a1a50691e2cf66cd7ce4751c8545b584">
+        <dex dex="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\pre-dexed\debug\com.weiwangcn.betterspinner-library-material-1.1.0_fa5aa062798413954b5274cc24ffc72ba48d4878.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_0618c6c0e6423df7ecaaeebebf93d79183abfba9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AlokRaj\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\pre-dexed\debug\library-2.4.0_c049b6f397482ef67c7dd0d33ec76cab9adaa85b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_a294834bdf537fac7f875c12450d8d3a13345073.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_2e56910c983ca720b69ad06e902816dae1289ae9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_8abe17039709b4851cd7583d26906a2bee06f720.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_39b3ffb651f2275da74af33be645c12b5f5313af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_67aa603623b22cde9334ed253d7f7b32223bf59d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_67c04721cd62c9807bf8b6c20374c300c6b27fb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_6facde5996a146dd5aefa1257afc18ba9360b54b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_2ac5a415c25845096ba4629ed04715bea33a18a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_80f3b947efab32b62b833c2aa25f33127e0107d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_d0ad47bfcdfaa17459fdced25fa333fad7293f64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\exploded-aar\com.rengwuxian.materialedittext\library\2.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052802ed198178e7133de387fbc87d3f2998482a">
+        <dex dex="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\pre-dexed\debug\com.rengwuxian.materialedittext-library-2.0.3_e8ccaab8462e8dc7b1cdfdf625362433d56059ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_8b067406a3c9981940266cd4da9609057edaa74c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_98d758f9740a23ada1f4ccae300fe32d87c0ae14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_d763ff818f97364f62e332c5c37104430db1f354.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c7d97a409bf6c472a1e9a2bdb569563f65252b53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_f414c174113b831256ea960e25b970c8eb502899.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_083aba7980352f6396a4275a8043afc5cfef68cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_eb5b4cd30f1a7bdaf4318c3dbdc270ed07926511.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Software\Android\Androidnew\sdk1\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_4ce725cc836249dc6734266a20bb1d7f0d94a423.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="G:\Android Project\sam digtal\MGIConnect\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_9782dc63a84c312f72ee2019db1a554950808465.jar" />
+    </item>
+
+</items>

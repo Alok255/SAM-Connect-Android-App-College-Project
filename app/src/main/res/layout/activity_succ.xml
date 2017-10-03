@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/app_bg"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:orientation="vertical" xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:background="@drawable/app_bg"
+        android:layout_height="match_parent"
+
+            tools:context=".SuccActivity">
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:src="@drawable/logo"/>
+        </LinearLayout>
+
+
+
+
+            <LinearLayout
+                android:paddingRight="20dp"
+                android:paddingLeft="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                >
+                <ImageButton
+                    android:id="@+id/profile"
+                    android:layout_weight=".50"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_user"
+                    android:textSize="20sp"
+                    android:background="#F44336"
+                    android:padding="10dp"
+                    android:layout_marginRight="20dp"
+                    />
+
+                <ImageButton
+                    android:layout_weight=".50"
+                    android:layout_width="0dp"
+                    android:id="@+id/finger"
+                    android:background="#F44336"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_fingerprint_focus"
+                    android:textSize="20sp"
+
+                    android:padding="10dp"
+                    />
+            </LinearLayout>
+
+            <LinearLayout
+
+                android:paddingRight="20dp"
+                android:paddingLeft="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:baselineAligned="false">
+                <TextView
+                    android:textSize="16sp"
+                    android:textColor="@android:color/black"
+                    android:text="            Profile"
+                    android:layout_weight=".30"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    />
+                <TextView
+                    android:textSize="16sp"
+                    android:textColor="@android:color/black"
+                    android:text="          Attendance"
+                    android:layout_weight=".30"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+
+                    />
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:paddingTop="10dp"
+                android:paddingRight="20dp"
+                android:paddingLeft="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                >
+                <ImageButton
+                    android:id="@+id/leave"
+                    android:layout_weight=".50"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_resume"
+                    android:textSize="20sp"
+                    android:background="#F44336"
+                    android:padding="10dp"
+                    android:layout_marginRight="20dp"
+                    />
+                           <ImageButton
+                android:id="@+id/staus"
+                android:layout_weight=".50"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_test"
+                android:textSize="20sp"
+                android:background="#F44336"
+                android:padding="10dp"
+                android:layout_marginLeft="20dp"
+                />
+
+            </LinearLayout>
+
+        <LinearLayout
+
+            android:paddingRight="20dp"
+            android:paddingLeft="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:baselineAligned="false">
+            <TextView
+                android:textSize="16sp"
+                android:textColor="@android:color/black"
+                android:text="    Leave Application"
+                android:layout_weight=".30"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                />
+            <TextView
+                android:textSize="16sp"
+                android:textColor="@android:color/black"
+                android:text="         Leave Staus"
+                android:layout_weight=".30"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+
+                />
+        </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
