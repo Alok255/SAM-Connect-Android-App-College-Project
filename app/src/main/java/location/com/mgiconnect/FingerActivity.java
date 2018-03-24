@@ -32,7 +32,7 @@ import javax.crypto.SecretKey;
 public class FingerActivity extends AppCompatActivity {
 
     private KeyStore keyStore;
-    private static final String KEY_NAME = "androidHive";
+    private static final String KEY_NAME = "mgiconnect";
     private Cipher cipher;
     private TextView textView;
 
